@@ -1,0 +1,2 @@
+com/project/aws/Application.java
+ com.project.aws.Application
