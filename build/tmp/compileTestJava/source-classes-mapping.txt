@@ -1,4 +1,8 @@
-com/project/aws/web/dto/HelloResponseDtoTest.java
- com.project.aws.web.dto.HelloResponseDtoTest
 com/project/aws/web/HelloControllerTest.java
  com.project.aws.web.HelloControllerTest
+com/project/aws/web/dto/HelloResponseDtoTest.java
+ com.project.aws.web.dto.HelloResponseDtoTest
+com/project/aws/domain/posts/PostsRepositoryTest.java
+ com.project.aws.domain.posts.PostsRepositoryTest
+com/project/aws/web/PostApiControllerTest.java
+ com.project.aws.web.PostApiControllerTest
