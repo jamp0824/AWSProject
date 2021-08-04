@@ -23,3 +23,5 @@ com/project/aws/web/dto/PostsSaveRequestDto.java
  com.project.aws.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/project/aws/service/PostsService.java
  com.project.aws.service.PostsService
+com/project/aws/web/IndexController.java
+ com.project.aws.web.IndexController

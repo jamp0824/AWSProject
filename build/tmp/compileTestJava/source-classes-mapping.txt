@@ -6,3 +6,5 @@ com/project/aws/domain/posts/PostsRepositoryTest.java
  com.project.aws.domain.posts.PostsRepositoryTest
 com/project/aws/web/PostApiControllerTest.java
  com.project.aws.web.PostApiControllerTest
+com/project/aws/web/IndexControllerTest.java
+ com.project.aws.web.IndexControllerTest
