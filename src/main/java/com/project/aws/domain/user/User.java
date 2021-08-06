@@ -2,9 +2,14 @@ package com.project.aws.domain.user;
 
 import com.project.aws.domain.BaseTimeEntity;
 import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
+@Getter
+@NoArgsConstructor
+@Entity
 public class User extends BaseTimeEntity {
 
     @Id
